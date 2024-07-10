@@ -105,15 +105,15 @@ skills:
     items:
       - name: Traveling
         description: ''
-        percent: 90
+        percent: 100
         icon: person-simple-walk
       - name: Film Photography
         description: ''
-        percent: 100
+        percent: 80
         icon: camera
       - name: Baking & Cooking
         description: ''
-        percent: 
+        percent: 40
         icon: cat
 
 languages:

@@ -38,8 +38,8 @@ profiles:
 education:
   - area: Advanced Diploma in Computer Programming & Analysis
     institution: Seneca Polytechnic
-    date_start: May 2023
-    date_end: Dec 2024
+    date_start: 2023-05
+    date_end: 2024-12
     summary: |
       Courses included:
       - Data Structures and Algorithms
@@ -66,9 +66,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Business Administration
     institution: Soochow University
-    date_start: Sep 2016
-    date_end: June 2020
-    summary: |
+    date_start: 2016-09
+    date_end: 2020
+-06    summary: |
       GPA: 3.4/4.0
       
       Courses included:

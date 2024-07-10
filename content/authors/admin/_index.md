@@ -41,16 +41,12 @@ education:
     summary: |
       Courses included:
       - Data Structures and Algorithms
-      - System/Software Analysis and Design
+      - System Analysis and Design
       - Advanced Database Services (Oracle, MongoDB)
       - Software Testing
       - Web Programming for Apps and Services
       - IT Project Management Fundamentals Tools and Techniques
-      - Intro UNIX/Linux and Internet
       - Object-Oriented Software Development Using C++
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
 
   - area: BSc Business Administration
     institution: Soochow University

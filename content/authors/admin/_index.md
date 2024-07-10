@@ -128,7 +128,7 @@ skills:
       - name: Baking & Cooking
         description: ''
         percent: 
-        icon: chef
+        icon: cat
 
 languages:
   - name: Mandarin

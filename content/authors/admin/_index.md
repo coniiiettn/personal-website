@@ -107,13 +107,14 @@ work:
     company_name: Soochow University
     company_url: 'https://eng.suda.edu.cn/'
     company_logo: ''
-    date_start: 2016-01-09
-    date_end: 2020-12-20
+    date_start: 2019-04-09
+    date_end: 2020-06-20
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - Task 2
-      - Task 3
+      - Utilized SAS for statistical analysis of financial data and provided findings.
+      - Assist the professor in reimbursing expenses for an international conference.
+      - Skilled in gathering and organizing financial market news and emerging trend information.
+
 
 
 skills:
@@ -164,7 +165,7 @@ awards:
   - title: 'Weather Fetch Web Application'
     url: https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application)
     date: '2024-06-28'
-    icon: devicon/notion
+    icon: custom/project-fugu-svgrepo-com.svg
     summary: |
       A dynamic weather application developed using React and Next.js, integrated with the OpenWeatherMap API. The app allows users to search for weather information by city name, city ID, or their current location. It includes support for multiple languages and provides weather description in a user-friendly interface.
     

@@ -99,7 +99,7 @@ skills:
       - name: System Design
         description: ''
         percent: 90
-        icon: devicon/python
+        icon: devicon/google
       - name: Software Development
         description: ''
         percent: 80

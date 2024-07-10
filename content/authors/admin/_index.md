@@ -165,7 +165,7 @@ awards:
   - title: 'Weather Fetch Web Application'
     url: https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application)
     date: '2024-06-28'
-    icon: assets/media/icons/custom/project-fugu-svgrepo-com
+    icon: project-fugu-svgrepo-com
     summary: |
       A dynamic weather application developed using React and Next.js, integrated with the OpenWeatherMap API. The app allows users to search for weather information by city name, city ID, or their current location. It includes support for multiple languages and provides weather description in a user-friendly interface.
     

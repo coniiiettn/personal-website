@@ -103,7 +103,7 @@ work:
       - Migrated infrastructure to a new data center
       - Task 2
       - Task 3
-  - position: Backend Software Engineer
+  - position: Research Assistant in Field of Finance
     company_name: Soochow University
     company_url: 'https://eng.suda.edu.cn/'
     company_logo: ''
@@ -165,7 +165,7 @@ awards:
   - title: 'Weather Fetch Web Application'
     url: https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application)
     date: '2024-06-28'
-    icon: custom/project-fugu-svgrepo-com.svg
+    icon: custom/project-fugu-svgrepo-com
     summary: |
       A dynamic weather application developed using React and Next.js, integrated with the OpenWeatherMap API. The app allows users to search for weather information by city name, city ID, or their current location. It includes support for multiple languages and provides weather description in a user-friendly interface.
     

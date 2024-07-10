@@ -11,7 +11,7 @@ last_name: Hsu
 
 # Status emoji
 status:
-  icon: 👩🏻‍💻
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,8 +27,9 @@ role: Student in Computer Programming & Analysis
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/github
-    url: [https://github.com/gcushen](https://github.com/coniiiettn)
+  - icon: at-symbol
+    url: 'mailto:connie.yth@gmail.com'
+    label: E-mail Me
   - icon: brands/github
     url: [https://github.com/gcushen](https://github.com/coniiiettn)
 

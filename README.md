@@ -1,7 +1,7 @@
-# [My Personal Website](https://conniehsu.netlify.app)
+# [My Personal Website]
 
-### Link
-https://conniehsu.netlify.app
+### [Link](https://conniehsu.netlify.app)
+
 
 Funfact: The banner features my film photography captured in Taiwan!
 

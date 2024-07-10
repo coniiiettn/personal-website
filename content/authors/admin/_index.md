@@ -124,16 +124,21 @@ skills:
     items:
       - name: System Design
         description: ''
-        percent: 90
+        percent: 80
         icon: devicon/unifiedmodelinglanguage
       - name: Software Development
         description: ''
-        percent: 80
+        percent: 90
         icon: devicon/vscode
       - name: Project Management
         description: ''
-        percent: 60
+        percent: 70
         icon: devicon/notion
+      - name: Full-Stack Web Development
+        description: ''
+        percent: 90
+        icon: devicon/nodejs
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

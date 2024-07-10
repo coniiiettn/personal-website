@@ -65,7 +65,7 @@ work:
     company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01
+    date_start: 2021-01-20
     date_end: ''
     summary: |
       Responsibilities include:
@@ -76,8 +76,8 @@ work:
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01
-    date_end: 2020-12
+    date_start: 2016-01-09
+    date_end: 2020-12-20
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center

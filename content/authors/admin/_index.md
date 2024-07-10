@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:connie.yth@gmail.com'
+    url: 'connie.yth@gmail.com'
   - icon: brands/github
     url: [https://github.com/gcushen](https://github.com/coniiiettn)
 

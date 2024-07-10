@@ -133,7 +133,7 @@ skills:
       - name: Project Management
         description: ''
         percent: 70
-        icon: devicon/notion
+        icon: devicon/jira
       - name: Full-Stack Web Development
         description: ''
         percent: 90

@@ -93,7 +93,7 @@ work:
       - Organized import/export customs clearance, document preparation, and coordinated communication with factories, shipping companies, and customs brokers
       
   - position: Intern in Supply Chain Development
-    company_name: Cong Ty TNHH United Mechanical (Ho CHi Minh, Vietnam)
+    company_name: Cong Ty TNHH United Mechanical (Ho Chi Minh, Vietnam)
     company_url: ''
     company_logo: ''
     date_start: 2018-08-01
@@ -102,9 +102,9 @@ work:
     date_end: 2029-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - Task 2
-      - Task 3
+      - Led cross-departmental data reviews during third-party audits with international clients, engaging audit representatives and receiving positive feedback
+      - Earned full-time promotion based on exceptional performance and substantial organizational contributions
+      - Organized and assessed production data to inform supply chain design and provide operational strategies
   - position: Research Assistant in Field of Finance
     company_name: Soochow University
     company_url: 'https://eng.suda.edu.cn/'

@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 許詠婷
+title: Yung-Ting, Hsu
 
 # Name pronunciation (optional)
-name_pronunciation: Yung-Ting (Connie), Hsu
+name_pronunciation: Connie
 
 # Full name (for SEO)
 first_name: Yung-Ting

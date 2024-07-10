@@ -36,8 +36,8 @@ profiles:
 education:
   - area: Advanced Diploma in Computer Programming & Analysis
     institution: Seneca Polytechnic
-    date_start: 2023-05
-    date_end: 2024-12
+    date_start: 2023-05-08
+    date_end: 2024-12-18
     summary: |
       Courses included:
       - Data Structures and Algorithms
@@ -51,21 +51,11 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01
-    date_end: 2020-12
-    summary: |
-      GPA: 4.0/4.0
 
-      Courses included:
-      - Course 1
-      - Course 2
-      - Course 3
   - area: BSc Business Administration
     institution: Soochow University
-    date_start: 2016-09
-    date_end: 2020-06
+    date_start: 2016-09-08
+    date_end: 2020-06-27
     summary: |
       GPA: 3.4/4.0
       

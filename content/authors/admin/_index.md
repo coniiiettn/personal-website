@@ -29,7 +29,6 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:connie.yth@gmail.com'
-    label: E-mail Me
   - icon: brands/github
     url: [https://github.com/gcushen](https://github.com/coniiiettn)
 

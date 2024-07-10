@@ -70,17 +70,17 @@ education:
       - Business Model Innovation
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: International Business & Supply Chain Management Specialist
+    company_name: Din Ling Corp.
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-20
-    date_end: ''
+    date_start: 2020-06-30
+    date_end: '2022-07-13'
     summary: |
       Responsibilities include:
-      - Leading teams on edge computing
-      - Deep sea data center architecture
-      - Hivemind optimization
+      - Examined manufacturing diagrams, refined cost calculations, and developed quotations, reducing group costs by 15% through improved procurement
+      - Analyzed production data to identify delay causes and provided strategic insights, increasing customer delivery satisfaction by 8% over a year
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -111,9 +111,9 @@ work:
     date_end: 2020-06-20
     summary: |
       Responsibilities include:
-      - Utilized SAS for statistical analysis of financial data and provided findings.
-      - Assist the professor in reimbursing expenses for an international conference.
-      - Skilled in gathering and organizing financial market news and emerging trend information.
+      - Utilized SAS for statistical analysis of financial data and provided findings
+      - Assist the professor in reimbursing expenses for an international conference
+      - Skilled in gathering and organizing financial market news and emerging trend information
 
 
 
@@ -165,21 +165,21 @@ awards:
   - title: 'Weather Fetch Web Application'
     url: https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application)
     date: '2024-06-28'
-    icon: custom/project-fugu-svgrepo-com
+    icon: icons/custom/project-fugu-svgrepo-com
     summary: |
       A dynamic weather application developed using React and Next.js, integrated with the OpenWeatherMap API. The app allows users to search for weather information by city name, city ID, or their current location. It includes support for multiple languages and provides weather description in a user-friendly interface.
     
   - title: 'Lego Collection Web Application'
     url: https://github.com/coniiiettn/lego-collection-web-application
     date: '2024-04-19'
-    icon: devicon/nodejs
+    icon: icons/custom/project-fugu-svgrepo-com
     summary: |
       The application allows users to perform CRUD operations on LEGO sets, dynamically fetches and displays random quotes, and integrates responsive forms for intuitive data input.Explore and manage LEGO sets effortlessly with this dynamic web application.
     
   - title: 'Assembly Line Simulator in C++'
     url: https://github.com/coniiiettn/assembly-line-simulator
     date: '2024-03-08'
-    icon: devicon/xcode
+    icon: icons/custom/project-fugu-svgrepo-com
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---

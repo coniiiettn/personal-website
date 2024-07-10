@@ -94,19 +94,19 @@ work:
       - Task 3
 
 skills:
-  - name: Technical Skills
+  - name: Interest Fields
     items:
-      - name: Python
+      - name: System Design
+        description: ''
+        percent: 90
+        icon: devicon/python
+      - name: Software Development
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: Project Management
         description: ''
-        percent: 40
+        percent: 60
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'

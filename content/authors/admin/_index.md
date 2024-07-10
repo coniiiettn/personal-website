@@ -6,7 +6,7 @@ title: 許詠婷
 name_pronunciation: Yung-Ting (Connie), Hsu
 
 # Full name (for SEO)
-first_name: Yung Ting
+first_name: Yung-Ting
 last_name: Hsu
 
 # Status emoji
@@ -20,15 +20,15 @@ superuser: true
 role: Student in Computer Programming & Analysis
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: 
-    url: https://www.example.com/
+#organizations:
+  #-name: 
+    #url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'connie.yth@gmail.com'
+    #url: 'connie.yth@gmail.com'
   - icon: brands/github
     url: [https://github.com/gcushen](https://github.com/coniiiettn)
 

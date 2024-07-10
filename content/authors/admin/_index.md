@@ -123,7 +123,7 @@ skills:
       - name: Baking & Cooking
         description: ''
         percent: 40
-        icon: U+1F4F7
+        icon: cat
 
 languages:
   - name: Mandarin
@@ -141,7 +141,7 @@ awards:
   - title: weather-fetch-web-application
     url: [https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application)
     date: '2024-06-28'
-    icon: 
+    icon: cat
     summary: |
       A dynamic weather application developed using React and Next.js, integrated with the OpenWeatherMap API. The app allows users to search for weather information by city name, city ID, or their current location. It includes support for multiple languages and provides weather description in a user-friendly interface.
   - title: Blockchain Fundamentals

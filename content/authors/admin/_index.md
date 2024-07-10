@@ -137,7 +137,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-projects:
+awards:
   - title: weather-fetch-web-application
     url: https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application)
     date: '2024-06-28'

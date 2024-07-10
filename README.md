@@ -1,6 +1,6 @@
 # Connie's Personal Website
 
-### [Link](https://conniehsu.netlify.app)
+### [Click Link Here!](https://conniehsu.netlify.app)
 
 
 Funfact: The banner features my film photography captured in Taiwan!

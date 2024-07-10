@@ -21,19 +21,17 @@ role: Student in Computer Programming & Analysis
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
-  -name: 
-    url: 
+  #-name: 
+  #  url: 
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:connie.yth@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: [https://github.com/gcushen](https://github.com/coniiiettn)
-
-
+    url: 'https://github.com/coniiiettn'
+    label: GitHub
 
 education:
   - area: Advanced Diploma in Computer Programming & Analysis
@@ -44,9 +42,9 @@ education:
       Courses included:
       - Data Structures and Algorithms
       - System/Software Analysis and Design
-      - Advanced Database Servies ( Oracle,MongoDB )
+      - Advanced Database Services (Oracle, MongoDB)
       - Software Testing
-      - Web Programming for Apps and Servies
+      - Web Programming for Apps and Services
       - IT Project Management Fundamentals Tools and Techniques
       - Intro UNIX/Linux and Internet
       - Object-Oriented Software Development Using C++
@@ -55,52 +53,51 @@ education:
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-01
+    date_end: 2020-12
     summary: |
       GPA: 4.0/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Course 1
+      - Course 2
+      - Course 3
   - area: BSc Business Administration
     institution: Soochow University
     date_start: 2016-09
-    date_end: 2020
--06    summary: |
+    date_end: 2020-06
+    summary: |
       GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Course 1
+      - Course 2
+      - Course 3
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Leading teams on edge computing
+      - Deep sea data center architecture
+      - Hivemind optimization
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2016-01
+    date_end: 2020-12
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Task 2
+      - Task 3
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:

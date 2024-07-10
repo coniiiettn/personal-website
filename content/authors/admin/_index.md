@@ -17,27 +17,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Student in Computer Programming & Analysis
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: 
     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:connie.yth@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: [https://github.com/gcushen](https://github.com/coniiiettn)
+
 
 education:
   - area: Advanced Diploma in Computer Programming & Analysis
@@ -124,28 +119,28 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
-      - name: Cats
+      - name: Film Photography
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
         icon: camera
+      - name: Baking & Cooking
+        description: ''
+        percent: 
+        icon: chef
 
 languages:
-  - name: English
+  - name: Mandarin
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Taiwanese
+    percent: 100
+  - name: English
+    percent: 70
 
-# Awards.
+# Projects.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.

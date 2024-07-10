@@ -70,7 +70,7 @@ education:
       - Business Model Innovation
 
 work:
-  - position: International Business & Supply Chain Management Specialist
+  - position: International Business & Supply Chain Management Specialist (Taipei, Taiwan)
     company_name: Din Ling Corp.
     company_url: ''
     company_logo: ''
@@ -82,7 +82,7 @@ work:
       - Analyzed production data to identify delay causes and provided strategic insights, increasing customer delivery satisfaction by 8% over a year
 
   - position: Intern in Business Development
-    company_name: Leader Baker Machinery Industry Co., Ltd.!
+    company_name: Leader Baker Machinery Industry Co., Ltd. (Changhua, Taiwan)
     company_url: ''
     company_logo: ''
     date_start: 2019-11-03
@@ -92,12 +92,14 @@ work:
       - Managed client development by providing quotations, resulting in the successful acquisition of 5 new clients within 6 months
       - Organized import/export customs clearance, document preparation, and coordinated communication with factories, shipping companies, and customs brokers
       
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Intern in Supply Chain Development
+    company_name: Cong Ty TNHH United Mechanical (Ho CHi Minh, Vietnam)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-09
-    date_end: 2020-12-20
+    date_start: 2018-08-01
+    date_end: 2018-08-30
+    date_start: 2019-07-03
+    date_end: 2029-08-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center

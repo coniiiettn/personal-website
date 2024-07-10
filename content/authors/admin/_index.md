@@ -26,7 +26,7 @@ role: Student in Computer Programming & Analysis
 
 # Social network links
 profiles:
-  - icon: at-symbol
+  - icon: devicon/google
     url: 'mailto:connie.yth@gmail.com'
     label: E-mail Me
   - icon: brands/github

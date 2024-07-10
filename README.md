@@ -1,4 +1,4 @@
-# [My Personal Website]
+# Connie's Personal Website
 
 ### [Link](https://conniehsu.netlify.app)
 

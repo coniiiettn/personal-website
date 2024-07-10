@@ -56,9 +56,18 @@ education:
       GPA: 3.4/4.0
       
       Courses included:
-      - Course 1
-      - Course 2
-      - Course 3
+      - Total Quality Management
+      - Operation Research
+      - Accounting
+      - Financial Management
+      - Marketing Management
+      - Information Management
+      - Procurement Management
+      - Introduction to Digital Finance
+      - Mobile App Development
+      - Strategic Management
+      - Green Supply Chain
+      - Business Model Innovation
 
 work:
   - position: Director of Cloud Infrastructure

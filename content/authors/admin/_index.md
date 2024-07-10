@@ -3,7 +3,7 @@
 title: 許詠婷
 
 # Name pronunciation (optional)
-name_pronunciation: Connie Hsu
+name_pronunciation: Yung-Ting (Connie), Hsu
 
 # Full name (for SEO)
 first_name: Yung Ting
@@ -11,7 +11,7 @@ last_name: Hsu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👩🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,12 +40,20 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Advanced Diploma in Computer Programming & Analysis
+    institution: Seneca Polytechnic
+    date_start: May 2023
+    date_end: Dec 2024
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Courses included:
+      - Data Structures and Algorithms
+      - System/Software Analysis and Design
+      - Advanced Database Servies ( Oracle,MongoDB )
+      - Software Testing
+      - Web Programming for Apps and Servies
+      - IT Project Management Fundamentals Tools and Techniques
+      - Intro UNIX/Linux and Internet
+      - Object-Oriented Software Development Using C++
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -54,16 +62,16 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Business Administration
+    institution: Soochow University
+    date_start: Sep 2016
+    date_end: June 2020
     summary: |
       GPA: 3.4/4.0
       

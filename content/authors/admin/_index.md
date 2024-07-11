@@ -100,7 +100,7 @@ work:
     date_start: 2018-08-01
     date_end: 2018-08-30
     date_start: 2019-07-03
-    date_end: 2029-08-31
+    date_end: 2019-08-31
     summary: |
       Responsibilities include:
       - Led cross-departmental data reviews during third-party audits with international clients, engaging audit representatives and receiving positive feedback

@@ -170,23 +170,23 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 'Weather Fetch Web Application'
-    url: https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application
     date: '2024-06-28'
-    icon: github(https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application)
+    icon: github
+    url: https://www.coursera.org/learn/neural-networks-deep-learning](https://github.com/coniiiettn/weather-fetch-web-application
     summary: |
       A dynamic weather application developed using React and Next.js, integrated with the OpenWeatherMap API. The app allows users to search for weather information by city name, city ID, or their current location. It includes support for multiple languages and provides weather description in a user-friendly interface.
     
   - title: 'Lego Collection Web Application'
-    url: https://github.com/coniiiettn/lego-collection-web-application
     date: '2024-04-19'
     icon: github
+    url: https://github.com/coniiiettn/lego-collection-web-application
     summary: |
       The application allows users to perform CRUD operations on LEGO sets, dynamically fetches and displays random quotes, and integrates responsive forms for intuitive data input.Explore and manage LEGO sets effortlessly with this dynamic web application.
     
   - title: 'Assembly Line Simulator in C++'
-    url: https://github.com/coniiiettn/assembly-line-simulator
     date: '2024-03-08'
     icon: github
+    url: https://github.com/coniiiettn/assembly-line-simulator
     summary: |
       This system is developed in C++ for simulating an assembly line in a manufacturing environment x by simulating the sequential flow of customer orders through various workstations. The system features an optimization algorithm to enhance order processing and workflow efficiency, minimizing downtime by effectively managing task availability and dependencies. Additionally, it showcases strong exception handling and resource management, including efficient memory management with move semantics and robust file I/O error handling.
 ---

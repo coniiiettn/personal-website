@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/YungTingHsu_resume_software_developer.pdf
+        url: uploads/YungTingHsu-Resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here

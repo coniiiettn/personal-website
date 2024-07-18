@@ -2,6 +2,7 @@
 
 ### [Click Link Here!](https://conniehsu.netlify.app)
 
+Sponsor of this project: @gcushen
 
 Funfact: The banner features my film photography captured at Sizih Bay in Taiwan!
 

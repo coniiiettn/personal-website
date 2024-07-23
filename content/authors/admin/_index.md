@@ -175,28 +175,28 @@ awards:
   - title: 'Weather Fetch Web Application'
     date: '2024-06-28'
     icon: github
-    url: https://github.com/coniiiettn/weather-fetch-web-application
+    url: 'https://github.com/coniiiettn/weather-fetch-web-application'
     summary: |
       A dynamic weather application developed using React and Next.js, integrated with the OpenWeatherMap API. The app allows users to search for weather information by city name, city ID, or their current location. It includes support for multiple languages and provides weather description in a user-friendly interface.
     
   - title: 'Lego Collection Web Application'
     date: '2024-04-19'
     icon: github
-    url: https://github.com/coniiiettn/lego-collection-web-application
+    url: 'https://github.com/coniiiettn/lego-collection-web-application'
     summary: |
       The application allows users to perform CRUD operations on LEGO sets, dynamically fetches and displays random quotes, and integrates responsive forms for intuitive data input.Explore and manage LEGO sets effortlessly with this dynamic web application.
     
   - title: 'Assembly Line Simulator in C++'
     date: '2024-03-08'
     icon: github
-    url: https://github.com/coniiiettn/assembly-line-simulator
+    url: 'https://github.com/coniiiettn/assembly-line-simulator'
     summary: |
       This system is developed in C++ for simulating an assembly line in a manufacturing environment x by simulating the sequential flow of customer orders through various workstations. The system features an optimization algorithm to enhance order processing and workflow efficiency, minimizing downtime by effectively managing task availability and dependencies. Additionally, it showcases strong exception handling and resource management, including efficient memory management with move semantics and robust file I/O error handling.
 
   - title: 'Veterinarian Clinic System in C'
     date: '2023-08-15'
     icon: github
-    url: https://github.com/coniiiettn/vet-clinic-system
+    url: 'https://github.com/coniiiettn/vet-clinic-system'
     summary: |
       Designed to efficiently manage patient and appointment records. It features robust input validation, buffer management, and user interaction handling, using essential C standard library functions for improved operational efficiency. Users can view, search, add, edit, and remove patient records, with detailed error messages to ensure data integrity. The Appointment Management module allows users to view all appointments, filter by date, and manage appointments while enforcing scheduling constraints. The system uses file handling techniques for reliable data persistence and employs algorithmic enhancements to optimize processes, demonstrating strong problem-solving capabilities and improving overall system efficiency.
 

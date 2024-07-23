@@ -203,4 +203,4 @@ awards:
 
 ---
 
-Hello! I am currently pursuing advanced diploma in computer programming & analysis in Toronto, Canada with a background in business administration. Welcome to reach me via email/Linkedin! 
+Hello! I am currently pursuing an Advanced Diploma in Computer Programming & Analysis in Toronto, Canada, with a background in Business Administration. I am a problem-solver who is passionate about creating innovative solutions. Feel free to reach out to me via email or LinkedIn!

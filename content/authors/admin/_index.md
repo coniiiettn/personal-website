@@ -33,7 +33,7 @@ profiles:
     url: 'https://github.com/coniiiettn'
     label: GitHub
   - icon: brands/linkedin
-    url: 'www.linkedin.com/in/connie-h-126702165'
+    url: 'https://www.linkedin.com/in/connie-hsu-yungting/'
     label: LinkedIn
 
 education:

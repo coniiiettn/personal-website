@@ -32,6 +32,9 @@ profiles:
   - icon: brands/github
     url: 'https://github.com/coniiiettn'
     label: GitHub
+  - icon: brands/linkedin
+    url: 'www.linkedin.com/in/connie-h-126702165'
+    label: LinkedIn
 
 education:
   - area: Advanced Diploma in Computer Programming & Analysis

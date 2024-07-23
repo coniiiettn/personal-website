@@ -161,6 +161,8 @@ languages:
     percent: 100
   - name: English
     percent: 70
+  - name: Korean
+    percent: 15
 
 # Projects.
 #   Add/remove as many awards below as you like.

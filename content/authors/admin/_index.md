@@ -188,6 +188,13 @@ awards:
     summary: |
       This system is developed in C++ for simulating an assembly line in a manufacturing environment x by simulating the sequential flow of customer orders through various workstations. The system features an optimization algorithm to enhance order processing and workflow efficiency, minimizing downtime by effectively managing task availability and dependencies. Additionally, it showcases strong exception handling and resource management, including efficient memory management with move semantics and robust file I/O error handling.
 
+    
+  - title: 'Assembly Line Simulator in C++'
+    date: '2024-03-08'
+    icon: github
+    url: https://github.com/coniiiettn/assembly-line-simulator
+    summary: |
+      This system is developed in C++ for simulating an assembly line in a manufacturing environment x by simulating the sequential flow of customer orders through various workstations. The system features an optimization algorithm to enhance order processing and workflow efficiency, minimizing downtime by effectively managing task availability and dependencies. Additionally, it showcases strong exception handling and resource management, including efficient memory management with move semantics and robust file I/O error handling.
 ---
 
 Hello! I am currently pursuing advanced diploma in computer programming & analysis in Toronto, Canada with a background in business administration. Welcome to reach me via email/Linkedin! 

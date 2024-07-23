@@ -189,12 +189,12 @@ awards:
       This system is developed in C++ for simulating an assembly line in a manufacturing environment x by simulating the sequential flow of customer orders through various workstations. The system features an optimization algorithm to enhance order processing and workflow efficiency, minimizing downtime by effectively managing task availability and dependencies. Additionally, it showcases strong exception handling and resource management, including efficient memory management with move semantics and robust file I/O error handling.
 
     
-  - title: 'Assembly Line Simulator in C++'
-    date: '2024-03-08'
+ - title: 'Veterinarian Clinic System in C'
+    date: '2023-08-20'
     icon: github
-    url: https://github.com/coniiiettn/assembly-line-simulator
+    url: https://github.com/coniiiettn/vet-clinic-system
     summary: |
-      This system is developed in C++ for simulating an assembly line in a manufacturing environment x by simulating the sequential flow of customer orders through various workstations. The system features an optimization algorithm to enhance order processing and workflow efficiency, minimizing downtime by effectively managing task availability and dependencies. Additionally, it showcases strong exception handling and resource management, including efficient memory management with move semantics and robust file I/O error handling.
+      The Veterinary Clinic System is a C-based application designed to efficiently manage patient and appointment records. It features robust input validation, buffer management, and user interaction handling, using essential C standard library functions for improved operational efficiency. Users can view, search, add, edit, and remove patient records, with detailed error messages to ensure data integrity. The Appointment Management module allows users to view all appointments, filter by date, and manage appointments while enforcing scheduling constraints. The system uses file handling techniques for reliable data persistence and employs algorithmic enhancements to optimize processes, demonstrating strong problem-solving capabilities and improving overall system efficiency.
 ---
 
 Hello! I am currently pursuing advanced diploma in computer programming & analysis in Toronto, Canada with a background in business administration. Welcome to reach me via email/Linkedin! 
